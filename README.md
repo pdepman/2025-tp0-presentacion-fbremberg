@@ -17,10 +17,9 @@ Trabajo como analista de ciberseguridad, área que realmente me apasiona. La vid
 
 A pedido del publico hay aca hay un par de fotos de Tita (tengo mas fotos de ella que mias).
 
-<img src="assets/Tita1.jpeg" alt="Tita1" width="300">
-
-<img src="assets/Tita2.jpeg" alt="Tita2" width="300">
-
-<img src="assets/Tita3.jpeg" alt="Tita3" width="300">
-
+<p align="center">
+  <img src="assets/Tita1.jpeg" alt="Tita1" width="200">
+  <img src="assets/Tita2.jpeg" alt="Tita2" width="200">
+  <img src="assets/Tita3.jpeg" alt="Tita3" width="200">
+</p>
 
